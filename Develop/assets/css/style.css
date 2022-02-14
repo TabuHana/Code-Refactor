@@ -20,18 +20,18 @@ body {
     font-size: 48px;
 }
 
-.header section {
+.header nav {
     float: right;
     font-size: 18px;
     margin-right: 19px;
     margin-top: 25px;
 }
 
-.header section ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header section li {
+.header nav li {
     display: inline-block;
     margin-left: 60px;
 }
