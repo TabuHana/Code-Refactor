@@ -5,6 +5,7 @@
   ***
   ## Table of Contents
   - [Description](#description)
+  - [Visual Presentation](#visual-presentation)
   - [Installation](#installation)
   - [Usuage](#usuage)
   - [Contribution](#contribution)
@@ -15,6 +16,9 @@
   ## Description
   To impress clients, its important to always go the extra mile and improve their codebase for long term sustainability. Ensuring that all links work and CSS components are cleaned up. This code demonstrates my ability to do that.
 
+  *** 
+  ## Visual Presentation
+  ![VisualPresentation](https://github.com/TabuHana/Code-Refactor/blob/main/assets/images/CodeRefactor.gif)
   ***
   ## Installation
   N/A
@@ -33,5 +37,6 @@
 
   ***
   ## Additional Info
+  - Deployed Page: [Code-Refactor](https://tabuhana.github.io/Code-Refactor/)
   - Github: TabuHana(https://github.com/TabuHana)
   - Email: nate31196@outlook.com
